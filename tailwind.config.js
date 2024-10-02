@@ -11,6 +11,17 @@ module.exports = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      backgroundImage: {
+        "hero-pattern": "url('/img/hero-pattern.svg')",
+        "footer-texture": "url('/img/footer-texture.png')",
+      },
+      fontFamily: {
+        sans: ["ui-sans-serif", "system-ui"],
+        serif: ["Times"],
+        mono: ["ui-monospace", "SFMono-Regular"],
+        display: ["Oswald"],
+        body: ['"Open Sans"'],
+      },
     },
   },
   plugins: [],
