@@ -13,7 +13,7 @@ const MainPoster = () => {
           <h1 className="text-[55px] font-sans absolute left-20">MINGLE</h1>
           <div>
             {" "}
-            <h2 className="text-[50px] font-serif relative left-24 top-7 text-orange-600">
+            <h2 className="text-[50px] font-serif relative sm:left-32 top-7 text-orange-600">
               MONDAYS
             </h2>
           </div>
@@ -31,7 +31,7 @@ const MainPoster = () => {
           </p>
         </div>
       </div>
-      <div className="absolute bottom-3">
+      <div className="absolute max-sm:bottom-3">
         {" "}
         <Footer />
       </div>
