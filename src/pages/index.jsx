@@ -1,5 +1,4 @@
-import localFont from "next/font/local";
-import { MainPoster } from "./mainposter";
+import MainPoster from "./components";
 
 export default function Home() {
   return (

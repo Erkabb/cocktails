@@ -1,6 +1,6 @@
 import Footer from "./footer";
 
-export const MainPoster = () => {
+const MainPoster = () => {
   return (
     <main className="flex flex-col pt-10 pb-5 items-center h-full gap-10 justify-between">
       <div className="flex flex-col items-center gap-10">
@@ -38,3 +38,4 @@ export const MainPoster = () => {
     </main>
   );
 };
+export default MainPoster;
