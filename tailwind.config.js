@@ -16,8 +16,8 @@ module.exports = {
         "footer-texture": "url('/img/footer-texture.png')",
       },
       fontFamily: {
-        sans: ["ui-sans-serif", "system-ui"],
-        serif: ["Times"],
+        sans: ["Libre Baskerville"],
+        serif: ["Qwitcher Grypen"],
         mono: ["ui-monospace", "SFMono-Regular"],
         display: ["Oswald"],
         body: ['"Open Sans"'],
